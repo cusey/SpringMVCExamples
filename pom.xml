@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cusey</groupId>
 	<artifactId>john</artifactId>
-	<name>Hello-World-Spring-MVC</name>
+	<name>SpringMVCExamples</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
